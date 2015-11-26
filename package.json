@@ -1,5 +1,5 @@
 {
-  "name": "video.js-compatible-with-react-dist",
+  "name": "video.js-dist-compatible-with-react",
   "version": "4.12.11",
   "description": "",
   "main": "video.dev.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/khejing/video.js-compatible-with-react-dist.git"
+    "url": "https://github.com/khejing/video.js-dist-compatible-with-react.git"
   },
   "author": "Will Lee",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/khejing/video.js-compatible-with-react-dist/issues"
+    "url": "https://github.com/khejing/video.js-dist-compatible-with-react/issues"
   },
-  "homepage": "https://github.com/khejing/video.js-compatible-with-react-dist"
+  "homepage": "https://github.com/khejing/video.js-dist-compatible-with-react"
 }

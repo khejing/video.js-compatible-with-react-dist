@@ -1,1 +1,1 @@
-# video.js-compatible-with-react-dist
+# video.js-dist-compatible-with-react
